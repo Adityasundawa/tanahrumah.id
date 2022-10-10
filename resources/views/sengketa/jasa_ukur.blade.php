@@ -1476,7 +1476,7 @@
                                                 fill="#61481c" data-original="#000000" class=""></path>
                                         </g>
                                         </svg>
-                                        <div class="mt-0" style="font-size: 12px">Bid <br> Lahan</div>
+                                        <div class="mt-0" style="font-size: 12px">Bid <br> Tanah</div>
                                     </a>
                                 </div>
 

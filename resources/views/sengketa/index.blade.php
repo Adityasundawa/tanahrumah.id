@@ -1567,7 +1567,7 @@
                                         data-original="#000000" class=""></path>
                                 </g>
                             </svg>
-                            <div class="mt-0" style="font-size: 12px">Jual Beli <br> Lahan</div>
+                            <div class="mt-0" style="font-size: 12px">Jual Beli <br> Tanah</div>
                             </a>
                         </div>
 
@@ -1598,7 +1598,7 @@
                                             fill="#61481c" data-original="#000000" class=""></path>
                                     </g>
                                 </svg>
-                                <div class="mt-0" style="font-size: 12px">Kerjasama <br> Lahan</div>
+                                <div class="mt-0" style="font-size: 12px">Kerjasama <br> Tanah</div>
                             </a>
                         </div>
 
@@ -1686,7 +1686,7 @@
                                         </g>
                                     </g>
                                 </svg>
-                                <div class="mt-0" style="font-size: 12px">Pelelangan <br> Lahan</div>
+                                <div class="mt-0" style="font-size: 12px">Pelelangan <br> Tanah</div>
                             </a>
                         </div> --}}
 
@@ -1721,7 +1721,7 @@
                                             fill="#61481c" data-original="#000000" class=""></path>
                                     </g>
                                 </svg>
-                                <div class="mt-0" style="font-size: 12px">Bid <br> Lahan</div>
+                                <div class="mt-0" style="font-size: 12px">Bid <br> Tanah</div>
                             </a>
                         </div>
 
@@ -6598,11 +6598,11 @@
             <table style="width:100%">
                 <tr>
                     <td rowspan="2" style="width: 40px">
-                        <img src="{{asset('/uploads/sengketa-logo_pas.png')}}" style="width:30px">
+                        <img src="{{asset('/uploads/tanah-logo_pas.png')}}" style="width:30px">
                     </td>
                     <td>
                         <h5 color="text-dark" style="margin-bottom: 0px !important">
-                            Bidding Lahan
+                            Bidding Tanah
                         </h5>
                     </td>
                     <td class="text-end" rowspan="2">
@@ -6612,7 +6612,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <p class="mb-0">Lahan Tersedia <span class="badge bg-danger">2,353</span></p>
+                        <p class="mb-0">Tanah Tersedia <span class="badge bg-danger">2,353</span></p>
                     </td>
                 </tr>
             </table>
@@ -6695,7 +6695,7 @@
                                 <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                     src="https://sengketatanah.id/uploads/biru_centang.png" alt=""
                                                     class="mb-1" style="height:20px"></h5>
                                         </div>
@@ -6770,7 +6770,7 @@
                                             </tr>
                                             <tr>
 
-                                                <td>Objek Lahan</td>
+                                                <td>Objek Tanah</td>
                                                 <td></td>
                                                 <td>:</td>
                                                 <td>&nbsp;Tanah Darat</td>
@@ -6968,7 +6968,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -7041,7 +7041,7 @@
                                                 <td>&nbsp;5000 M</td>
                                             </tr>
                                             <tr>
-                                                <td>Objek Lahan</td>
+                                                <td>Objek Tanah</td>
                                                 <td></td>
                                                 <td>:</td>
                                                 <td>&nbsp;Tanah Darat</td>
@@ -7237,7 +7237,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -7309,7 +7309,7 @@
                                                 <td>&nbsp;3.2 Ha</td>
                                             </tr>
                                             <tr>
-                                                <td>Objek Lahan</td>
+                                                <td>Objek Tanah</td>
                                                 <td></td>
                                                 <td>:</td>
                                                 <td>&nbsp;Tanah Darat</td>
@@ -7504,7 +7504,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -7576,7 +7576,7 @@
                                                 <td>&nbsp;3.2 Ha</td>
                                             </tr>
                                             <tr>
-                                                <td>Objek Lahan</td>
+                                                <td>Objek Tanah</td>
                                                 <td></td>
                                                 <td>:</td>
                                                 <td>&nbsp;Tanah Darat</td>
@@ -7783,7 +7783,7 @@
                                 <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Bidang BL-004 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BT-004 <img
                                                     src="https://sengketatanah.id/uploads/biru_centang.png" alt=""
                                                     class="mb-1" style="height:20px"></h5>
                                         </div>
@@ -7858,7 +7858,7 @@
                                             </tr>
                                             <tr>
 
-                                                <td>Objek Lahan</td>
+                                                <td>Objek Tanah</td>
                                                 <td></td>
                                                 <td>:</td>
                                                 <td>&nbsp;Tanah Darat</td>
@@ -8055,7 +8055,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Bidang BL-001 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BT-001 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -8128,7 +8128,7 @@
                                                 <td>&nbsp;5000 M</td>
                                             </tr>
                                             <tr>
-                                                <td>Objek Lahan</td>
+                                                <td>Objek Tanah</td>
                                                 <td></td>
                                                 <td>:</td>
                                                 <td>&nbsp;Tanah Darat</td>
@@ -8324,7 +8324,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Bidang BL-002 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BT-002 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -8396,7 +8396,7 @@
                                                 <td>&nbsp;3.2 Ha</td>
                                             </tr>
                                             <tr>
-                                                <td>Objek Lahan</td>
+                                                <td>Objek Tanah</td>
                                                 <td></td>
                                                 <td>:</td>
                                                 <td>&nbsp;Tanah Darat</td>
@@ -8591,7 +8591,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Bidang BL-003 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BT-003 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -8663,7 +8663,7 @@
                                                 <td>&nbsp;3.2 Ha</td>
                                             </tr>
                                             <tr>
-                                                <td>Objek Lahan</td>
+                                                <td>Objek Tanah</td>
                                                 <td></td>
                                                 <td>:</td>
                                                 <td>&nbsp;Tanah Darat</td>
@@ -9164,7 +9164,7 @@
     </div>
 
 
-    <!-- Jual beli Lahan -->
+    <!-- Jual beli Tanah -->
     {{-- <div class="card mb-3 border-0 shadow-sm ">
                     <div class="card-header bg-white">
                         <table style="width:100%">
@@ -9174,7 +9174,7 @@
     </td>
     <td>
         <h5 color="text-dark" style="margin-bottom: 0px !important">
-            Jual Beli Lahan
+            Jual Beli Tanah
         </h5>
     </td>
     <td class="text-end" rowspan="2">
@@ -9184,7 +9184,7 @@
     </tr>
     <tr>
         <td>
-            <p class="mb-0">Lahan Tersedia <span class="badge bg-danger">4,323</span></p>
+            <p class="mb-0">Tanah Tersedia <span class="badge bg-danger">4,323</span></p>
         </td>
     </tr>
     </table>
@@ -9335,7 +9335,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -9583,7 +9583,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -9831,7 +9831,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -10087,7 +10087,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -10343,7 +10343,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -11029,7 +11029,7 @@
             <table style="width:100%">
                 <tr>
                     <td rowspan="2" style="width: 40px">
-                        <img src="{{asset('/uploads/sengketa-logo_pas.png')}}" style="width:30px">
+                        <img src="{{asset('/uploads/rumah-logo_pas.png')}}" style="width:30px">
                     </td>
                     <td>
                         <h5 color="text-dark" style="margin-bottom: 0px !important">
@@ -11043,7 +11043,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <p class="mb-0">Lahan Tersedia <span class="badge bg-danger">2,353</span></p>
+                        <p class="mb-0">Tanah Tersedia <span class="badge bg-danger">2,353</span></p>
                     </td>
                 </tr>
             </table>
@@ -11121,7 +11121,7 @@
                                 <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Objek BR-004 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BR-004 <img
                                                     src="https://sengketatanah.id/uploads/biru_centang.png" alt=""
                                                     class="mb-1" style="height:20px"></h5>
                                         </div>
@@ -11394,7 +11394,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Objek BR-001 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BR-001 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -11664,7 +11664,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Objek BR-002 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BR-002 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -11932,7 +11932,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Objek BR-003 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BR-003 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -12207,7 +12207,7 @@
                                 <div class="card-header text-white px-3 py-1" style="background: #8f8f8f">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Objek BR-004 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BR-004 <img
                                                     src="https://sengketatanah.id/uploads/biru_centang.png" alt=""
                                                     class="mb-1" style="height:20px"></h5>
                                         </div>
@@ -12480,7 +12480,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Objek BR-001 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BR-001 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -12750,7 +12750,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Objek BR-002 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BR-002 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -13018,7 +13018,7 @@
                                     <div class="row">
 
                                         <div class="col-lg-12">
-                                            <h5 class="mb-0 text-center">Kode Objek BR-003 <img
+                                            <h5 class="mb-0 text-center">Kode Bid BR-003 <img
                                                     src="{{asset('')}}uploads/biru_centang.png" alt="" class="mb-1"
                                                     style="height:20px"></h5>
                                         </div>
@@ -13293,7 +13293,7 @@
     </td>
     <td>
         <h5 color="text-dark" style="margin-bottom: 0px !important">
-            Kerja Sama Lahan
+            Kerja Sama Tanah
         </h5>
     </td>
     <td class="text-end" rowspan="2">
@@ -13303,7 +13303,7 @@
     </tr>
     <tr>
         <td>
-            <p class="mb-0">Lahan Tersedia <span class="badge bg-danger">4,323</span></p>
+            <p class="mb-0">Tanah Tersedia <span class="badge bg-danger">4,323</span></p>
         </td>
     </tr>
     </table>
@@ -13453,7 +13453,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -13714,7 +13714,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -13974,7 +13974,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -14235,7 +14235,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -14495,7 +14495,7 @@
 
 
                                         <tr>
-                                            <td>Jenis Lahan</td>
+                                            <td>Jenis Tanah</td>
                                             <td></td>
                                             <td>:</td>
                                             <td>&nbsp;Tanah Darat</td>
@@ -14785,7 +14785,7 @@
     </td>
     <td>
         <h5 color="text-dark" style="margin-bottom: 0px !important">
-            Lelang Lahan
+            Lelang Tanah
         </h5>
     </td>
     <td class="text-end" rowspan="2">
@@ -14795,7 +14795,7 @@
     </tr>
     <tr>
         <td>
-            <p class="mb-0">Lahan Tersedia <span class="badge bg-danger">2,353</span></p>
+            <p class="mb-0">Tanah Tersedia <span class="badge bg-danger">2,353</span></p>
         </td>
     </tr>
     </table>
@@ -16835,7 +16835,7 @@
                             <div class="col-4"><img class="imago" width="100%"
                                     src="https://i.ytimg.com/vi/-RkCcavzXq8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYuRgylXJIKoNUa4El8SsT1f88ng">
                             </div>
-                            <div class="col-8 text-white texto">Mafia Tanah Sikat Lahan Garapan Petani
+                            <div class="col-8 text-white texto">Mafia Tanah Sikat Tanah Garapan Petani
                                 Pancawati Bogor #PetaniMengadu</div>
                         </div>
                     </div>
@@ -16848,7 +16848,7 @@
                             <div class="col-4"><img class="imago" width="100%" height="100%"
                                     src="https://i.ytimg.com/vi/byby3HJ3OCI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbyFGnyjuYbXClrL-dy7-iFeVOQ">
                             </div>
-                            <div class="col-8 text-white texto">Mafia Tanah Sikat Lahan Garapan Petani
+                            <div class="col-8 text-white texto">Mafia Tanah Sikat Tanah Garapan Petani
                                 Pancawati Bogor #PodcastSengketaTanah1</div>
                         </div>
                     </div>
@@ -16861,7 +16861,7 @@
                             <div class="col-4"><img class="imago" width="100%"
                                     src="https://i.ytimg.com/vi/-RkCcavzXq8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYuRgylXJIKoNUa4El8SsT1f88ng">
                             </div>
-                            <div class="col-8 text-white texto">Mafia Tanah Sikat Lahan Garapan Petani
+                            <div class="col-8 text-white texto">Mafia Tanah Sikat Tanah Garapan Petani
                                 Pancawati Bogor #PetaniMengadu</div>
                         </div>
                     </div>
@@ -16874,7 +16874,7 @@
                             <div class="col-4"><img class="imago" width="100%"
                                     src="https://i.ytimg.com/vi/byby3HJ3OCI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbyFGnyjuYbXClrL-dy7-iFeVOQ">
                             </div>
-                            <div class="col-8 text-white texto">Mafia Tanah Sikat Lahan Garapan Petani
+                            <div class="col-8 text-white texto">Mafia Tanah Sikat Tanah Garapan Petani
                                 Pancawati Bogor #PodcastSengketaTanah1</div>
                         </div>
                     </div>
@@ -16887,7 +16887,7 @@
                             <div class="col-4"><img class="imago" width="100%"
                                     src="https://i.ytimg.com/vi/-RkCcavzXq8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYuRgylXJIKoNUa4El8SsT1f88ng">
                             </div>
-                            <div class="col-8 text-white texto">Mafia Tanah Sikat Lahan Garapan Petani
+                            <div class="col-8 text-white texto">Mafia Tanah Sikat Tanah Garapan Petani
                                 Pancawati Bogor #PetaniMengadu</div>
                         </div>
                     </div>
@@ -16900,7 +16900,7 @@
                             <div class="col-4"><img class="imago" width="100%"
                                     src="https://i.ytimg.com/vi/byby3HJ3OCI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbyFGnyjuYbXClrL-dy7-iFeVOQ">
                             </div>
-                            <div class="col-8 text-white texto">Mafia Tanah Sikat Lahan Garapan Petani
+                            <div class="col-8 text-white texto">Mafia Tanah Sikat Tanah Garapan Petani
                                 Pancawati Bogor #PodcastSengketaTanah1</div>
                         </div>
                     </div>

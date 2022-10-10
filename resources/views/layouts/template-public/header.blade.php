@@ -16,13 +16,25 @@
         .mote h6 {
             font-size: 10px !important
         }
-     }
+    }
+
+    .btn.btn-navoutline-brown {
+        color: #61481C;
+        background: #fff;
+        border: 1px solid #61481C;
+    }
+
+    .btn.btn-navoutline-brown:hover {
+        color: #fff;
+        background: #61481C;
+        border: 1px solid #61481C;
+    }
 </style>
 
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand fw-bold fs-4" href="{{url('/')}}">
-            <img src="{{asset('/uploads/sengketa-logo_pas.png')}}" style="width:30px" class="img-fluid me-2">SENGKETA TANAH</a>
+        <a class="navbar-brand fw-bold fs-4 d-flex" href="{{url('/')}}">
+            <img src="{{asset('/uploads/sengketa-logo_pas.png')}}" style="width:30px; align-self: center" class="img-fluid me-2">SENGKETA TANAH</a>
         <div class="form-check form-switch">
             <input class="form-check-input dark-mode" type="checkbox" role="switch" id="dark-mode">
         </div>
@@ -55,7 +67,7 @@
 
                 @if(Auth::check() == false)
                 <li class="nav-item me-1 ms-1">
-                    <a class="nav-link btn btn-outline-brown rounded-3 login-mb" href="{{url('/')}}/login">Login</a>
+                    <a class="nav-link btn btn-navoutline-brown rounded-3 login-mb" href="{{url('/')}}/login">Login</a>
                 </li>
                 <li class="nav-item me-1 ms-1">
                     <a class="nav-link btn btn-brown text-white rounded-3" href="{{url('/')}}/register">Register</a>

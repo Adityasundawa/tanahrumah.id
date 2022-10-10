@@ -1065,7 +1065,7 @@
                                 }
                             }
                         </style>
-                        <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" class="mb-2" style="width: 75px" alt="">
+                        <img src="{{asset('')}}uploads/tanah-logo_pas.png" class="mb-2" style="width: 75px" alt="">
                         <div class="container-lsa mx-auto mb-3">
                             <h2>
                                 <div class="fw-bold" style="color: #61481C"> TENTANG KAMI</div>
@@ -1641,7 +1641,7 @@
                                         <tbody>
                                             <tr>
                                                 <td rowspan="2" style="width: 40px">
-                                                    <img src="http://sengketatanah.id/uploads/sengketa-logo_pas.png" style="width:30px">
+                                                    <img src="{{asset('')}}uploads/rumah-logo_pas.png" style="width:30px">
                                                 </td>
                                                 <td>
                                                     <h3 color="text-primary" style="margin-bottom: 0px !important">
@@ -1854,7 +1854,7 @@
                                                     <div class="modal-content">
                                                         <div class="modal-header p-0">
                                                             <h1 class="modal-title mx-auto text-danger display-1">
-                                                                <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" style="width: 100px" alt="">
+                                                                <img src="{{asset('')}}uploads/tanah-logo_pas.png" style="width: 100px" alt="">
                                                             </h1>
                                                         </div>
                                                         <div class="modal-body">
@@ -1903,7 +1903,7 @@
                                                         <div class="modal-content">
                                                             <div class="modal-header p-0">
                                                                 <h1 class="modal-title mx-auto text-danger display-1">
-                                                                    <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" class="mb-2" style="width: 100px" alt="">
+                                                                    <img src="{{asset('')}}uploads/tanah-logo_pas.png" class="mb-2" style="width: 100px" alt="">
                                                                 </h1>
                                                             </div>
                                                             <div class="modal-body">
@@ -2200,7 +2200,7 @@
                                                 <div class="modal-content">
                                                     <div class="modal-header p-0">
                                                         <h1 class="modal-title mx-auto text-danger display-1">
-                                                            <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" style="width: 100px" alt="">
+                                                            <img src="{{asset('')}}uploads/tanah-logo_pas.png" style="width: 100px" alt="">
                                                         </h1>
                                                     </div>
                                                     <div class="modal-body">
@@ -2249,7 +2249,7 @@
                                                     <div class="modal-content">
                                                         <div class="modal-header p-0">
                                                             <h1 class="modal-title mx-auto text-danger display-1">
-                                                                <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" class="mb-2" style="width: 100px" alt="">
+                                                                <img src="{{asset('')}}uploads/tanah-logo_pas.png" class="mb-2" style="width: 100px" alt="">
                                                             </h1>
                                                         </div>
                                                         <div class="modal-body">
@@ -2548,7 +2548,7 @@
                                                 <div class="modal-content">
                                                     <div class="modal-header p-0">
                                                         <h1 class="modal-title mx-auto text-danger display-1">
-                                                            <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" style="width: 100px" alt="">
+                                                            <img src="{{asset('')}}uploads/tanah-logo_pas.png" style="width: 100px" alt="">
                                                         </h1>
                                                     </div>
                                                     <div class="modal-body">
@@ -2597,7 +2597,7 @@
                                                     <div class="modal-content">
                                                         <div class="modal-header p-0">
                                                             <h1 class="modal-title mx-auto text-danger display-1">
-                                                                <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" class="mb-2" style="width: 100px" alt="">
+                                                                <img src="{{asset('')}}uploads/tanah-logo_pas.png" class="mb-2" style="width: 100px" alt="">
                                                             </h1>
                                                         </div>
                                                         <div class="modal-body">
@@ -2892,7 +2892,7 @@
                                                 <div class="modal-content">
                                                     <div class="modal-header p-0">
                                                         <h1 class="modal-title mx-auto text-danger display-1">
-                                                            <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" style="width: 100px" alt="">
+                                                            <img src="{{asset('')}}uploads/tanah-logo_pas.png" style="width: 100px" alt="">
                                                         </h1>
                                                     </div>
                                                     <div class="modal-body">
@@ -2941,7 +2941,7 @@
                                                     <div class="modal-content">
                                                         <div class="modal-header p-0">
                                                             <h1 class="modal-title mx-auto text-danger display-1">
-                                                                <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" class="mb-2" style="width: 100px" alt="">
+                                                                <img src="{{asset('')}}uploads/tanah-logo_pas.png" class="mb-2" style="width: 100px" alt="">
                                                             </h1>
                                                         </div>
                                                         <div class="modal-body">

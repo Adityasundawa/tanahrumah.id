@@ -1069,7 +1069,7 @@
                                 }
                             }
                         </style>
-                        <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" class="mb-2" style="width: 75px" alt="">
+                        <img src="{{asset('')}}uploads/rumah-logo_pas.png" class="mb-2" style="width: 75px" alt="">
                         <div class="container-lsa mx-auto mb-3">
                             <h2>
                                 <div class="fw-bold" style="color: #61481C"> TENTANG KAMI</div>
@@ -1347,7 +1347,7 @@
                                                 <path d="m103.179688 183.886719c0-12.984375-10.566407-23.550781-23.550782-23.550781s-23.550781 10.566406-23.550781 23.550781 10.566406 23.550781 23.550781 23.550781 23.550782-10.566406 23.550782-23.550781zm-32.070313 0c0-4.695313 3.820313-8.515625 8.519531-8.515625 4.695313 0 8.515625 3.820312 8.515625 8.515625 0 4.699219-3.820312 8.519531-8.515625 8.519531-4.699218 0-8.519531-3.824219-8.519531-8.519531zm0 0" fill="#61481c" data-original="#000000" class=""></path>
                                             </g>
                                         </svg>
-                                        <div class="mt-0" style="font-size: 12px">Bid <br> Lahan</div>
+                                        <div class="mt-0" style="font-size: 12px">Bid <br> Tanah</div>
                                     </a>
                                 </div>
 
@@ -1644,7 +1644,7 @@
                                         <tbody>
                                             <tr>
                                                 <td rowspan="2" style="width: 40px">
-                                                    <img src="http://sengketatanah.id/uploads/sengketa-logo_pas.png" style="width:30px">
+                                                    <img src="{{asset('')}}uploads/rumah-logo_pas.png" style="width:30px">
                                                 </td>
                                                 <td>
                                                     <h3 color="text-primary" style="margin-bottom: 0px !important">
@@ -1856,7 +1856,7 @@
                                                     <div class="modal-content">
                                                         <div class="modal-header p-0">
                                                             <h1 class="modal-title mx-auto text-danger display-1">
-                                                                <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" style="width: 100px" alt="">
+                                                                <img src="{{asset('')}}uploads/rumah-logo_pas.png" style="width: 100px" alt="">
                                                             </h1>
                                                         </div>
                                                         <div class="modal-body">
@@ -2200,7 +2200,7 @@
                                                 <div class="modal-content">
                                                     <div class="modal-header p-0">
                                                         <h1 class="modal-title mx-auto text-danger display-1">
-                                                            <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" style="width: 100px" alt="">
+                                                            <img src="{{asset('')}}uploads/rumah-logo_pas.png" style="width: 100px" alt="">
                                                         </h1>
                                                     </div>
                                                     <div class="modal-body">
@@ -2549,7 +2549,7 @@
                                                 <div class="modal-content">
                                                     <div class="modal-header p-0">
                                                         <h1 class="modal-title mx-auto text-danger display-1">
-                                                            <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" style="width: 100px" alt="">
+                                                            <img src="{{asset('')}}uploads/rumah-logo_pas.png" style="width: 100px" alt="">
                                                         </h1>
                                                     </div>
                                                     <div class="modal-body">
@@ -2889,7 +2889,7 @@
                                                 <div class="modal-content">
                                                     <div class="modal-header p-0">
                                                         <h1 class="modal-title mx-auto text-danger display-1">
-                                                            <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" style="width: 100px" alt="">
+                                                            <img src="{{asset('')}}uploads/rumah-logo_pas.png" style="width: 100px" alt="">
                                                         </h1>
                                                     </div>
                                                     <div class="modal-body">
@@ -2994,7 +2994,7 @@
             <div class="modal-content">
                 <div class="modal-header p-0">
                     <h1 class="modal-title mx-auto text-danger display-1">
-                        <img src="{{asset('')}}uploads/sengketa-logo_pas-9.png" class="mb-2" style="width: 100px" alt="">
+                        <img src="{{asset('')}}uploads/rumah-logo_pas.png" class="mb-2" style="width: 100px" alt="">
                     </h1>
                 </div>
                 <div class="modal-body" style="text-align: justify">
